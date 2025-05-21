@@ -1,0 +1,24 @@
+.nav{
+    padding: 30px; 
+}
+.nav2{
+    display: flex;
+    gap: 20px;;
+    padding: 20px;
+
+}
+.nav3{
+    display: flex;
+    gap: 20px;
+}
+.main1{
+    display: flex;
+}
+.btn1{
+    gap: 20px;
+    background: black;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+
+}
