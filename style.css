@@ -1,4 +1,4 @@
-.nav{
+.nav{ margin: 20px;
     padding: 30px; 
 }
 .nav2{
@@ -75,8 +75,19 @@
 
 }
 .darkbg{
+    margin-top: 20px;
+    padding: 20px;
     
    background:#0C0B2E;
    color: white;
+   ;
    border-radius: 20px;
+}
+.lrn{padding: 10px;
+    color: yellowgreen;}
+
+.bgfl{ gap: 10px;
+    display: flex;
+.last{
+    display: flex;
 }
